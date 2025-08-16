@@ -17,8 +17,9 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-- NA
+- [x] <iframe src="https://drive.google.com/file/d/1twIFQyRW7YHobadST1B5mLihndVeLyqx/preview" width="640" height="480" allow="autoplay"></iframe>
 ## App Brainstorming (Step 4)
+After learning how to build IOS app in this course I'd like to make an IOS app, which allows user to keep track of their MTA bus or train fare when users tap their devices at the turnstile or the buses. Often times MTA is charging extras, by building this app user will be able to track their taps, what date, what time they used their card and later they can dispute the charges and users can tell the time and date very precisely. 
 
 ## Notes
 
